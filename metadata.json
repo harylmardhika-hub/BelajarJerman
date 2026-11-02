@@ -1,0 +1,6 @@
+{
+  "name": "KlangWerk — Studio Belajar Bahasa Jerman",
+  "description": "Aplikasi full-stack pembelajaran Bahasa Jerman dengan latihan kosakata harian berbasis Spaced Repetition (SRS), kuis artikel Der/Die/Das, dan laboratorium pengucapan interaktif.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
